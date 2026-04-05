@@ -1,0 +1,12 @@
+<!-- Google tag for AC version -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XND4Q3T8QD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XND4Q3T8QD');
+</script>
+
+
+Remember also has different info in Docs as code section
