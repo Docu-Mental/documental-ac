@@ -10,3 +10,4 @@
 
 
 Remember also has different info in Docs as code section
+Also css and js need to be copied
